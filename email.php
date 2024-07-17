@@ -2,5 +2,5 @@
 $x= null;
     $x = (int) '0xff';
 
-    echo"sample line";
+    echo"sample line of text";
 
