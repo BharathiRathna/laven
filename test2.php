@@ -7,5 +7,7 @@ $cth = "commit three";
 $cf = "commit four";
 $cfi = "commit five";
 $cfi = "commit six";
+$cs = "commit seven";
+
 echo "$test2 **** ";
 
